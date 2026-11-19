@@ -1,0 +1,9 @@
+# 证书与私钥不进版本库
+certs/
+*.key
+*.crt
+*.srl
+*.csr
+
+# macOS
+.DS_Store
